@@ -6,7 +6,10 @@ Me2U uses biometric technology (face and fingerprint recognition) and BVN api to
 # Figma UI Prototype:
 https://www.figma.com/file/KmltFb442mtOy39wzOcTpP/Me2U?node-id=10%3A6
 
-<img src="./iPhone 8 Plus - 2.png" style="border-wdith:3px; border-color:red;">
+<img src="./iPhone 8 Plus - 2.png">
+<hr>
 <img src="./iPhone 8 Plus - 3.png">
+<hr>
 <img src="./iPhone 8 Plus - 4.png">
+<hr>
 <img src="./iPhone 8 Plus - 5.png">
